@@ -1,0 +1,2 @@
+function Quotes(){const quote0="Rise to the level of expectations by falling to the leve of training.",quote1="To make a great man, isolate him."; return(<ul><li><p>From one thing, know ten thousand things. Man must learn to be alone in the midst of all others, and if need be, against all others. Strength is closer to calmness. The martial art says. When you react, you let others control you. When you respond, you are in control.</p></li><li>{quote0}</li><li>{quote1.toUpperCase()}</li></ul>);};
+export default Quotes;

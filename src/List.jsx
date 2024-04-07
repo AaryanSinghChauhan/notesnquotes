@@ -1,0 +1,2 @@
+function List(){const sayings=["Everything heard is an opinion, not a fact. Everything seen is a perspective, not the truth.","How quickly people forget the dead!","Never be a prisoner of your past. It was a lesson, not a life sentence.","No matter how you feel, get up, dress up, show up and never give up.","Be who you are not what someones else wants you to be.","Do everything with a good heart and expect nothing in return and you will never be disappointed."];const items=sayings.map(g=><li>{g}</li>);return(<ul>{items}</ul>);};
+export default List;

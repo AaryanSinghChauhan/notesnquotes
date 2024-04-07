@@ -1,0 +1,8 @@
+function Header(){
+return(<header>
+<h2>Isolation is the gift. All the others are a test of endurance. </h2>
+<nav><ul><li><button onClick={()=>alert("Do not be so serious. Nothing is too important. Do not try to correct your mistake. It continues your attachment to the one who makes mistakes. Just disown the mistake, for you are somebody else now. Even when nobody is around, you are busy with yourself, if you notice. That is called loneliness. The goal of life is not happiness but freedom from both happiness and sadness.")}>Acharya Prashant</button></li><li><button onClick={()=>alert("And when nobody wakes you up in the morning, and when you can do whatever you want, what do you called it, freedom or loneliness? You have to die a few times before you can really live. Real loneliness is not necessarily limited to when you are alone. The only time people think of injustice is when it happens to them. ")}>Charles Bukowski</button></li><li><button onClick={()=>alert("Governments do not want well informed, well educated people capable of critical thinking. That is against their interests. They want obedient workers, people who are just smart to run the machines and do the paperwork, and just dumb enough to passively accept it. Everyone appreciates your honesty until you are honest with them.")}>George Carlin</button></li><li><button onClick={()=>alert("The most effective way to destroy people is to deny and obliterate their own understanding of their history. The further a society dirfts from the truth, the more it will hate those that speak it.")}>George Orwell</button></li></ul></nav>
+<hr></hr>
+</header>);
+}
+export default Header;
